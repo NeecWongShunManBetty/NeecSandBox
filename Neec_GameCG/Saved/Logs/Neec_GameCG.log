@@ -5004,3 +5004,797 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.31-06.13.15:937][710]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ThirdPersonExampleMapAAB2D2864DF6500788E44DA3B09FA555.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2023.05.31-06.13.15:968][710]AssetCheck: New page: アセット保存：ThirdPersonExampleMap
 [2023.05.31-06.13.15:968][710]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2023.05.31-06.14.16:406][125]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Wong/Model/Animation/BS_RunWalk.BS_RunWalk
+[2023.05.31-06.14.16:501][125]LogWorld: UWorld::CleanupWorld for World_82, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.14.16:501][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.14.21:474][416]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Wong/Model/Animation/BS_Jump.BS_Jump
+[2023.05.31-06.14.58:121][300]LogContentBrowser: Deferred new asset file creation: Jumping_Anim_mixamo_com_Montage
+[2023.05.31-06.14.58:142][300]LogContentBrowser: Creating deferred item: Jumping_Anim_mixamo_com_Montage
+[2023.05.31-06.15.00:420][393]LogContentBrowser: Attempting asset rename: Jumping_Anim_mixamo_com_Montage -> Jumping_Anim_mixamo_com_Montage
+[2023.05.31-06.15.00:422][393]LogContentBrowser: End creating deferred item Jumping_Anim_mixamo_com_Montage
+[2023.05.31-06.15.14:963][ 36]LogContentBrowser: Attempting asset rename: Jumping_Anim_mixamo_com_Montage -> Jumping_Anim_Montage
+[2023.05.31-06.15.15:075][ 36]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/Jumping_Anim_Montage80A5A93342873A9DD05FA38F0D9141EF.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/Model/Animation/Jumping_Anim_Montage.uasset'
+[2023.05.31-06.15.15:193][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.05.31-06.15.15:247][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.05.31-06.15.15:277][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.05.31-06.15.15:357][ 36]AssetCheck: New page: アセット保存：Jumping_Anim_Montage
+[2023.05.31-06.15.15:357][ 36]LogContentValidation: Display: AnimMontage /Game/Wong/Model/Animation/Jumping_Anim_Montage.Jumping_Anim_Montage を検証しています
+[2023.05.31-06.15.34:239][236]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Wong/Model/Animation/Jumping_Anim_Montage.Jumping_Anim_Montage
+[2023.05.31-06.16.26:839][752]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/Jumping_Anim_Montage1E1C2526499509827A1005ABC8BEB036.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/Model/Animation/Jumping_Anim_Montage.uasset'
+[2023.05.31-06.16.26:858][752]AssetCheck: New page: アセット保存：Jumping_Anim_Montage
+[2023.05.31-06.16.26:858][752]LogContentValidation: Display: AnimMontage /Game/Wong/Model/Animation/Jumping_Anim_Montage.Jumping_Anim_Montage を検証しています
+[2023.05.31-06.16.54:415][907]LogWorld: UWorld::CleanupWorld for World_80, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.16.54:415][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.16.54:492][907]LogWorld: UWorld::CleanupWorld for World_83, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.16.54:492][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.16.54:505][907]LogWorld: UWorld::CleanupWorld for World_81, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.16.54:505][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.16.58:337][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.05.31-06.16.59:259][224]LogSlate: Window 'Delete Assets' being destroyed
+[2023.05.31-06.16.59:318][224]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Wong/Model/Animation/Jumping_Anim_Montage.Jumping_Anim_Montage
+[2023.05.31-06.16.59:651][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.05.31-06.16.59:681][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2023.05.31-06.16.59:713][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.05.31-06.17.02:975][352]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com
+[2023.05.31-06.17.02:979][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-06.17.03:077][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2023.05.31-06.17.03:482][352]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2023.05.31-06.17.45:127][206]LogSlate: Window 'Jumping_Anim_mixamo_com' being destroyed
+[2023.05.31-06.18.21:047][212]LogAnimation: Warning: AnimPreviewInstance_0: null montage found in the montage instance array!!
+[2023.05.31-06.19.41:320][484]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.19.41:386][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.05.31-06.19.42:311][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.19.42:351][554]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec233390B12E45CB5844EBAC32AC2B073700.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.19.42:367][554]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.19.42:367][554]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.19.47:858][  4]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.19.47:920][  4]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2023.05.31-06.19.49:577][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.19.49:618][125]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec23B583986F4296E56E2484E18006A3E96B.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.19.49:634][125]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.19.49:634][125]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.19.53:708][457]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.19.53:770][457]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.05.31-06.19.54:227][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.19.54:268][487]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec23CD14C95144F200703EFCCB8D53F4F8B2.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.19.54:291][487]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.19.54:291][487]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.20.02:904][208]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.20.02:965][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.05.31-06.20.03:727][262]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.20.03:767][262]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec234B5EDF5A4630151A084841A3C9115379.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.20.03:781][262]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.20.03:781][262]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.20.10:988][852]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.20.11:054][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.05.31-06.20.11:527][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.20.11:568][883]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec2395619CFD41C8896C0EA2B49F1CC27923.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.20.11:583][883]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.20.11:583][883]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.20.18:208][429]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.20.18:276][429]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2023.05.31-06.20.18:660][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.20.18:700][453]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec2373C6EF3A4C007EF53D05AF8DC5F66BB9.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.20.18:715][453]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.20.18:715][453]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.20.22:803][784]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.20.22:868][784]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2023.05.31-06.20.24:977][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.20.25:016][954]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec23DDD10D274629B3C9533902B32E4E5529.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.20.25:033][954]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.20.25:033][954]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.20.30:835][427]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.20.30:899][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.05.31-06.20.36:057][849]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.20.36:123][849]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2023.05.31-06.20.43:898][489]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.20.43:963][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.05.31-06.20.55:040][443]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.20.55:105][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.05.31-06.21.00:401][871]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.21.00:467][871]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.05.31-06.21.11:620][785]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.21.11:683][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2023.05.31-06.21.13:793][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.21.13:833][957]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec23CEFE9CBD49B722AFA6ABEEB18EEF2124.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.21.13:849][957]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.21.13:849][957]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.21.15:342][ 61]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.21.15:349][ 61]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.21.15:349][ 61]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:21:15)
+[2023.05.31-06.21.15:349][ 61]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.21.15:364][ 61]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014680s)
+[2023.05.31-06.21.15:365][ 61]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.21.15:365][ 61]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2023.05.31-06.21.15:365][ 61]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016448s)
+[2023.05.31-06.21.15:405][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.05.31-06.21.15:407][ 61]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2023.05.31-06.21.15:407][ 61]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.21.15:407][ 61]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.21.15:407][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.21.15:407][ 61]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.21.15:407][ 61]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.21.15:407][ 61]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.21.15:407][ 61]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.21.15:407][ 61]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.21.15:408][ 61]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.21.15:408][ 61]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.21.15:408][ 61]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.21.15:408][ 61]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.21.15:412][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.21.15:412][ 61]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.21.15:447][ 61]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.21.15:447][ 61]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.21.15:447][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.21.15:447][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.21.15:448][ 61]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.21.15:448][ 61]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.21.15:448][ 61]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.21.15:449][ 61]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.21.15:449][ 61]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.21.15:449][ 61]LogInit: FAudioDevice initialized.
+[2023.05.31-06.21.15:449][ 61]LogAudio: Display: Audio Device (ID: 48) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.21.15:457][ 61]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.21.15:459][ 61]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.21.15
+[2023.05.31-06.21.15:459][ 61]LogWorld: Bringing up level for play took: 0.001095
+[2023.05.31-06.21.15:459][ 61]LogOnline: OSS: Creating online subsystem instance for: :Context_134
+[2023.05.31-06.21.15:462][ 61]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.21.15:462][ 61]PIE: サーバーにログインしました
+[2023.05.31-06.21.15:463][ 61]PIE: PIE合計開始時間 0.115 秒。
+[2023.05.31-06.21.22:295][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.21.22:295][813]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.21.22:295][813]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.21.22:295][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.21.22:302][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.21.22:313][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.21.22:342][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-06.21.22:342][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.21.22:343][813]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.21.22:346][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.21.22:350][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.05.31-06.21.22:387][814]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2023.05.31-06.22.05:163][267]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.22.05:227][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.05.31-06.22.10:898][727]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.22.10:964][727]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.05.31-06.22.12:927][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.22.12:966][883]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec2312450FAF4E8471126FB846941DE6C809.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.22.12:982][883]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.22.12:982][883]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.22.27:322][ 54]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.22.27:388][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2023.05.31-06.22.38:256][938]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.22.38:324][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2023.05.31-06.22.46:607][613]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.22.46:674][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2023.05.31-06.22.53:152][130]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.22.53:214][130]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2023.05.31-06.22.55:857][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.22.55:899][341]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec23C28FF9F74F9021599E5F58A828FE35B0.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.22.55:918][341]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.22.55:918][341]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.22.57:666][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2023.05.31-06.22.57:685][454]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ThirdPersonExampleMapBECEDBFC43A7AF8C62FB2A9BF7EE3B03.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.05.31-06.22.57:719][454]AssetCheck: New page: アセット保存：ThirdPersonExampleMap
+[2023.05.31-06.22.57:719][454]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2023.05.31-06.22.58:610][510]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.22.58:617][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.22.58:617][510]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:22:58)
+[2023.05.31-06.22.58:617][510]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.22.58:629][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011403s)
+[2023.05.31-06.22.58:629][510]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.22.58:630][510]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2023.05.31-06.22.58:630][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012612s)
+[2023.05.31-06.22.58:669][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.05.31-06.22.58:671][510]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2023.05.31-06.22.58:671][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.22.58:671][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.22.58:671][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.22.58:671][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.22.58:671][510]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.22.58:671][510]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.22.58:671][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.22.58:671][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.22.58:671][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.22.58:671][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.22.58:671][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.22.58:671][510]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.22.58:675][510]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.22.58:675][510]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.22.58:694][510]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.22.58:694][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.22.58:694][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.22.58:694][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.22.58:694][510]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.22.58:694][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.22.58:694][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.22.58:695][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.22.58:695][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.22.58:695][510]LogInit: FAudioDevice initialized.
+[2023.05.31-06.22.58:695][510]LogAudio: Display: Audio Device (ID: 49) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.22.58:707][510]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.22.58:709][510]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.22.58
+[2023.05.31-06.22.58:710][510]LogWorld: Bringing up level for play took: 0.001255
+[2023.05.31-06.22.58:710][510]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2023.05.31-06.22.58:713][510]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.22.58:713][510]PIE: サーバーにログインしました
+[2023.05.31-06.22.58:714][510]PIE: PIE合計開始時間 0.099 秒。
+[2023.05.31-06.23.25:874][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.23.25:874][504]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.23.25:874][504]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.23.25:875][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.23.25:882][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.23.25:893][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.23.25:921][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.23.25:921][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.23.25:922][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.23.25:930][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.05.31-06.23.25:968][505]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2023.05.31-06.23.28:810][673]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.23.28:816][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.23.28:816][673]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:23:28)
+[2023.05.31-06.23.28:816][673]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.23.28:827][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010781s)
+[2023.05.31-06.23.28:828][673]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.23.28:828][673]LogPlayLevel: PIE: World Init took: (0.001019s)
+[2023.05.31-06.23.28:828][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011922s)
+[2023.05.31-06.23.28:867][673]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.05.31-06.23.28:869][673]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2023.05.31-06.23.28:869][673]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.23.28:869][673]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.23.28:869][673]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.23.28:869][673]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.23.28:869][673]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.23.28:869][673]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.23.28:869][673]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.23.28:869][673]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.23.28:870][673]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.23.28:870][673]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.23.28:870][673]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.23.28:870][673]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.23.28:873][673]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.23.28:873][673]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.23.28:900][673]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.23.28:900][673]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.23.28:900][673]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.23.28:900][673]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.23.28:901][673]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.23.28:901][673]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.23.28:901][673]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.23.28:902][673]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.23.28:902][673]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.23.28:902][673]LogInit: FAudioDevice initialized.
+[2023.05.31-06.23.28:902][673]LogAudio: Display: Audio Device (ID: 50) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.23.28:910][673]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.23.28:912][673]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.23.28
+[2023.05.31-06.23.28:912][673]LogWorld: Bringing up level for play took: 0.000728
+[2023.05.31-06.23.28:912][673]LogOnline: OSS: Creating online subsystem instance for: :Context_136
+[2023.05.31-06.23.28:914][673]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.23.28:914][673]PIE: サーバーにログインしました
+[2023.05.31-06.23.28:916][673]PIE: PIE合計開始時間 0.1 秒。
+[2023.05.31-06.23.29:303][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.23.29:304][709]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.23.29:304][709]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.23.29:304][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.23.29:317][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.23.29:328][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.23.29:356][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.23.29:356][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.23.29:357][709]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.23.29:364][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.05.31-06.23.29:396][710]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2023.05.31-06.23.49:740][227]Cmd: TRANSACTION UNDO
+[2023.05.31-06.23.49:740][227]LogEditorTransaction: Undo アニメーションシーケンスを挿入
+[2023.05.31-06.23.49:937][227]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-06.23.49:937][227]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2023.05.31-06.23.49:939][227]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-06.23.49:939][227]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2023.05.31-06.24.54:218][387]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com
+[2023.05.31-06.25.09:089][324]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.05.31-06.25.09:110][324]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.05.31-06.25.11:840][598]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com
+[2023.05.31-06.25.13:184][675]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/Jumping_Anim_mixamo_com99BFABE44DDE0638211698881D025C88.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/Model/Animation/Jumping_Anim_mixamo_com.uasset'
+[2023.05.31-06.25.13:204][675]AssetCheck: New page: アセット保存：Jumping_Anim_mixamo_com
+[2023.05.31-06.25.13:204][675]LogContentValidation: Display: AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com を検証しています
+[2023.05.31-06.25.16:925][910]Cmd: TRANSACTION UNDO
+[2023.05.31-06.25.16:925][910]LogEditorTransaction: Undo アニメーションシーケンスを切り取る
+[2023.05.31-06.25.17:090][910]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-06.25.17:090][910]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2023.05.31-06.25.17:092][910]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-06.25.17:092][910]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2023.05.31-06.25.32:326][121]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com
+[2023.05.31-06.25.33:522][193]Cmd: TRANSACTION UNDO
+[2023.05.31-06.25.33:522][193]LogEditorTransaction: Undo アニメーションシーケンスを切り取る
+[2023.05.31-06.25.33:689][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-06.25.33:689][193]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2023.05.31-06.25.33:691][193]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-06.25.33:691][193]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2023.05.31-06.25.35:655][300]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/Jumping_Anim_mixamo_comC1B07CDD47DC367C8645398B0717FC90.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/Model/Animation/Jumping_Anim_mixamo_com.uasset'
+[2023.05.31-06.25.35:675][300]AssetCheck: New page: アセット保存：Jumping_Anim_mixamo_com
+[2023.05.31-06.25.35:675][300]LogContentValidation: Display: AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com を検証しています
+[2023.05.31-06.25.37:418][400]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.25.37:425][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.25.37:425][400]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:25:37)
+[2023.05.31-06.25.37:425][400]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.25.37:435][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009457s)
+[2023.05.31-06.25.37:436][400]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.25.37:436][400]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2023.05.31-06.25.37:436][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011084s)
+[2023.05.31-06.25.37:473][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.05.31-06.25.37:478][400]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2023.05.31-06.25.37:478][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.25.37:478][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.25.37:478][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.25.37:478][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.25.37:478][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.25.37:478][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.25.37:478][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.25.37:478][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.25.37:478][400]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.25.37:478][400]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.25.37:478][400]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.25.37:478][400]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.25.37:482][400]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.25.37:482][400]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.25.37:503][400]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.25.37:503][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.25.37:503][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.25.37:503][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.25.37:503][400]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.25.37:503][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.25.37:503][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.25.37:504][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.25.37:504][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.25.37:504][400]LogInit: FAudioDevice initialized.
+[2023.05.31-06.25.37:504][400]LogAudio: Display: Audio Device (ID: 51) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.25.37:512][400]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.25.37:513][400]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.25.37
+[2023.05.31-06.25.37:513][400]LogWorld: Bringing up level for play took: 0.000787
+[2023.05.31-06.25.37:513][400]LogOnline: OSS: Creating online subsystem instance for: :Context_137
+[2023.05.31-06.25.37:515][400]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.25.37:516][400]PIE: サーバーにログインしました
+[2023.05.31-06.25.37:517][400]PIE: PIE合計開始時間 0.094 秒。
+[2023.05.31-06.25.45:703][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.25.45:703][295]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.25.45:703][295]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.25.45:704][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.25.45:717][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.25.45:726][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.25.45:755][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-06.25.45:755][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.25.45:756][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.25.45:760][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.25.45:763][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.05.31-06.25.45:800][296]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2023.05.31-06.26.03:107][360]Cmd: TRANSACTION UNDO
+[2023.05.31-06.26.03:107][360]LogEditorTransaction: Undo アニメーションシーケンスを切り取る
+[2023.05.31-06.26.03:273][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-06.26.03:273][360]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2023.05.31-06.26.03:276][360]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.31-06.26.03:276][360]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_84:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2023.05.31-06.26.15:415][108]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/Jumping_Anim_mixamo_com61D2FEBD4FDB49B328FCC1AC1A22F723.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/Model/Animation/Jumping_Anim_mixamo_com.uasset'
+[2023.05.31-06.26.15:430][108]AssetCheck: New page: アセット保存：Jumping_Anim_mixamo_com
+[2023.05.31-06.26.15:430][108]LogContentValidation: Display: AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com を検証しています
+[2023.05.31-06.26.16:585][176]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/Jumping_Anim_mixamo_com4958DE344BD3401FBD77B5862AAC1A94.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/Model/Animation/Jumping_Anim_mixamo_com.uasset'
+[2023.05.31-06.26.16:602][176]AssetCheck: New page: アセット保存：Jumping_Anim_mixamo_com
+[2023.05.31-06.26.16:603][176]LogContentValidation: Display: AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com を検証しています
+[2023.05.31-06.27.21:378][156]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com
+[2023.05.31-06.27.30:081][700]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com
+[2023.05.31-06.27.31:482][784]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/Jumping_Anim_mixamo_com15A1086A4348D347C6FE1287D933012A.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/Model/Animation/Jumping_Anim_mixamo_com.uasset'
+[2023.05.31-06.27.31:501][784]AssetCheck: New page: アセット保存：Jumping_Anim_mixamo_com
+[2023.05.31-06.27.31:501][784]LogContentValidation: Display: AnimSequence /Game/Wong/Model/Animation/Jumping_Anim_mixamo_com.Jumping_Anim_mixamo_com を検証しています
+[2023.05.31-06.27.32:748][859]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.27.32:756][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.27.32:756][859]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:27:32)
+[2023.05.31-06.27.32:756][859]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.27.32:768][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011862s)
+[2023.05.31-06.27.32:770][859]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.27.32:770][859]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2023.05.31-06.27.32:770][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013388s)
+[2023.05.31-06.27.32:809][859]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.05.31-06.27.32:819][859]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2023.05.31-06.27.32:819][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.27.32:819][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.27.32:819][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.27.32:819][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.27.32:819][859]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.27.32:819][859]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.27.32:819][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.27.32:819][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.27.32:820][859]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.27.32:820][859]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.27.32:820][859]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.27.32:820][859]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.27.32:823][859]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.27.32:824][859]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.27.32:843][859]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.27.32:843][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.27.32:843][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.27.32:843][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.27.32:844][859]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.27.32:844][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.27.32:844][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.27.32:846][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.27.32:846][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.27.32:846][859]LogInit: FAudioDevice initialized.
+[2023.05.31-06.27.32:846][859]LogAudio: Display: Audio Device (ID: 52) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.27.32:856][859]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.27.32:858][859]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.27.32
+[2023.05.31-06.27.32:858][859]LogWorld: Bringing up level for play took: 0.000885
+[2023.05.31-06.27.32:858][859]LogOnline: OSS: Creating online subsystem instance for: :Context_138
+[2023.05.31-06.27.32:860][859]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.27.32:861][859]PIE: サーバーにログインしました
+[2023.05.31-06.27.32:862][859]PIE: PIE合計開始時間 0.107 秒。
+[2023.05.31-06.27.40:143][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.27.40:143][656]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.27.40:143][656]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.27.40:143][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.27.40:152][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.27.40:162][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.27.40:192][656]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-06.27.40:192][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.27.40:193][656]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.27.40:196][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.27.40:200][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.05.31-06.27.40:238][657]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2023.05.31-06.27.55:416][844]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.27.55:482][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.05.31-06.27.55:988][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.27.56:027][875]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec233937DED84D30E7A784070D9CF5244143.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.27.56:043][875]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.27.56:043][875]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.28.02:152][335]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.28.02:159][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.28.02:159][335]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:28:02)
+[2023.05.31-06.28.02:159][335]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.28.02:172][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012532s)
+[2023.05.31-06.28.02:173][335]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.28.02:173][335]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2023.05.31-06.28.02:173][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013701s)
+[2023.05.31-06.28.02:213][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2023.05.31-06.28.02:215][335]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2023.05.31-06.28.02:215][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.28.02:215][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.28.02:215][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.28.02:215][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.28.02:215][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.28.02:215][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.28.02:215][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.28.02:216][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.28.02:216][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.28.02:216][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.28.02:216][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.28.02:216][335]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.28.02:220][335]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.28.02:220][335]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.28.02:240][335]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.28.02:240][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.28.02:240][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.28.02:240][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.28.02:241][335]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.28.02:241][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.28.02:241][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.28.02:242][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.28.02:242][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.28.02:242][335]LogInit: FAudioDevice initialized.
+[2023.05.31-06.28.02:242][335]LogAudio: Display: Audio Device (ID: 53) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.28.02:253][335]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.28.02:254][335]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.28.02
+[2023.05.31-06.28.02:254][335]LogWorld: Bringing up level for play took: 0.000683
+[2023.05.31-06.28.02:254][335]LogOnline: OSS: Creating online subsystem instance for: :Context_139
+[2023.05.31-06.28.02:257][335]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.28.02:258][335]PIE: サーバーにログインしました
+[2023.05.31-06.28.02:259][335]PIE: PIE合計開始時間 0.102 秒。
+[2023.05.31-06.28.04:213][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.28.04:213][546]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.28.04:213][546]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.28.04:213][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.28.04:220][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.28.04:231][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.28.04:259][546]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-06.28.04:260][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.28.04:261][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.28.04:264][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.28.04:268][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.05.31-06.28.04:305][547]LogPlayLevel: Display: Destroying online subsystem :Context_139
+[2023.05.31-06.28.05:744][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.05.31-06.28.05:761][629]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ThirdPersonExampleMapC6EACE28487E16E869E631BD2BA3B664.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.05.31-06.28.05:795][629]AssetCheck: New page: アセット保存：ThirdPersonExampleMap
+[2023.05.31-06.28.05:795][629]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2023.05.31-06.28.06:536][676]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.28.06:544][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.28.06:544][676]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:28:06)
+[2023.05.31-06.28.06:571][676]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.28.06:581][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009780s)
+[2023.05.31-06.28.06:582][676]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.28.06:582][676]LogPlayLevel: PIE: World Init took: (0.001785s)
+[2023.05.31-06.28.06:583][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011778s)
+[2023.05.31-06.28.06:614][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.05.31-06.28.06:615][676]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2023.05.31-06.28.06:615][676]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.28.06:615][676]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.28.06:615][676]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.28.06:615][676]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.28.06:615][676]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.28.06:615][676]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.28.06:615][676]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.28.06:615][676]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.28.06:616][676]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.28.06:616][676]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.28.06:616][676]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.28.06:616][676]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.28.06:619][676]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.28.06:619][676]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.28.06:639][676]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.28.06:639][676]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.28.06:639][676]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.28.06:639][676]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.28.06:640][676]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.28.06:640][676]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.28.06:640][676]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.28.06:641][676]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.28.06:641][676]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.28.06:641][676]LogInit: FAudioDevice initialized.
+[2023.05.31-06.28.06:641][676]LogAudio: Display: Audio Device (ID: 54) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.28.06:647][676]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.28.06:649][676]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.28.06
+[2023.05.31-06.28.06:649][676]LogWorld: Bringing up level for play took: 0.001027
+[2023.05.31-06.28.06:649][676]LogOnline: OSS: Creating online subsystem instance for: :Context_140
+[2023.05.31-06.28.06:652][676]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.28.06:653][676]PIE: サーバーにログインしました
+[2023.05.31-06.28.06:654][676]PIE: PIE合計開始時間 0.111 秒。
+[2023.05.31-06.28.09:292][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.28.09:292][964]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.28.09:292][964]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.28.09:292][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.28.09:303][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.28.09:313][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.28.09:341][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.28.09:341][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.28.09:342][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.28.09:349][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.05.31-06.28.09:380][965]LogPlayLevel: Display: Destroying online subsystem :Context_140
+[2023.05.31-06.28.14:075][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.05.31-06.28.14:093][265]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ThirdPersonExampleMap5F73B1924DE352200B747FAAA3577735.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.05.31-06.28.14:123][265]AssetCheck: New page: アセット保存：ThirdPersonExampleMap
+[2023.05.31-06.28.14:123][265]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2023.05.31-06.28.14:758][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.05.31-06.28.15:901][369]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.28.15:907][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.28.15:908][369]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:28:15)
+[2023.05.31-06.28.15:908][369]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.28.15:917][369]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009078s)
+[2023.05.31-06.28.15:918][369]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.28.15:919][369]LogPlayLevel: PIE: World Init took: (0.002116s)
+[2023.05.31-06.28.15:919][369]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011415s)
+[2023.05.31-06.28.15:956][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.05.31-06.28.15:958][369]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2023.05.31-06.28.15:958][369]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.28.15:958][369]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.28.15:958][369]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.28.15:958][369]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.28.15:958][369]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.28.15:958][369]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.28.15:958][369]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.28.15:958][369]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.28.15:959][369]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.28.15:959][369]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.28.15:959][369]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.28.15:959][369]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.28.15:963][369]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.28.15:963][369]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.28.15:983][369]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.28.15:984][369]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.28.15:984][369]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.28.15:984][369]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.28.15:984][369]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.28.15:984][369]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.28.15:984][369]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.28.15:985][369]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.28.15:985][369]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.28.15:985][369]LogInit: FAudioDevice initialized.
+[2023.05.31-06.28.15:985][369]LogAudio: Display: Audio Device (ID: 55) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.28.15:992][369]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.28.15:993][369]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.28.15
+[2023.05.31-06.28.15:993][369]LogWorld: Bringing up level for play took: 0.000671
+[2023.05.31-06.28.15:993][369]LogOnline: OSS: Creating online subsystem instance for: :Context_141
+[2023.05.31-06.28.15:996][369]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.28.15:997][369]PIE: サーバーにログインしました
+[2023.05.31-06.28.15:998][369]PIE: PIE合計開始時間 0.092 秒。
+[2023.05.31-06.28.22:473][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.28.22:473][ 78]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.28.22:473][ 78]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.28.22:473][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.28.22:484][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.28.22:503][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.28.22:531][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.28.22:531][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.28.22:532][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.28.22:539][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.05.31-06.28.22:580][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2023.05.31-06.28.53:458][996]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.28.53:523][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.05.31-06.28.54:387][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.28.54:428][ 59]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec234D6DA79744B660532E2AEA887D156F2B.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.28.54:448][ 59]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.28.54:448][ 59]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.28.56:637][199]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.28.56:646][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.28.56:646][199]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:28:56)
+[2023.05.31-06.28.56:646][199]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.28.56:657][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011119s)
+[2023.05.31-06.28.56:658][199]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.28.56:658][199]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2023.05.31-06.28.56:659][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012425s)
+[2023.05.31-06.28.56:700][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.05.31-06.28.56:702][199]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.05.31-06.28.56:702][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.28.56:703][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.28.56:703][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.28.56:703][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.28.56:703][199]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.28.56:703][199]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.28.56:703][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.28.56:703][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.28.56:703][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.28.56:703][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.28.56:703][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.28.56:703][199]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.28.56:707][199]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.28.56:707][199]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.28.56:727][199]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.28.56:727][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.28.56:727][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.28.56:727][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.28.56:727][199]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.28.56:727][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.28.56:728][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.28.56:728][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.28.56:729][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.28.56:729][199]LogInit: FAudioDevice initialized.
+[2023.05.31-06.28.56:729][199]LogAudio: Display: Audio Device (ID: 56) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.28.56:737][199]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.28.56:738][199]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.28.56
+[2023.05.31-06.28.56:738][199]LogWorld: Bringing up level for play took: 0.000712
+[2023.05.31-06.28.56:738][199]LogOnline: OSS: Creating online subsystem instance for: :Context_142
+[2023.05.31-06.28.56:741][199]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.28.56:741][199]PIE: サーバーにログインしました
+[2023.05.31-06.28.56:742][199]PIE: PIE合計開始時間 0.097 秒。
+[2023.05.31-06.29.01:723][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.29.01:723][743]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.29.01:723][743]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.29.01:723][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.29.01:736][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.29.01:756][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.29.01:783][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-06.29.01:784][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.29.01:785][743]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.29.01:789][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.29.01:792][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.05.31-06.29.01:832][744]LogPlayLevel: Display: Destroying online subsystem :Context_142
+[2023.05.31-06.29.08:500][269]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.29.08:567][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.05.31-06.29.09:136][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.29.09:178][306]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec238D17B7AB46D738B6F5AE59991177E22F.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.29.09:202][306]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.29.09:202][306]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.29.10:025][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.05.31-06.29.10:961][413]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.29.10:971][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.29.10:971][413]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:29:10)
+[2023.05.31-06.29.11:011][413]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.29.11:021][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010380s)
+[2023.05.31-06.29.11:023][413]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.29.11:023][413]LogPlayLevel: PIE: World Init took: (0.001684s)
+[2023.05.31-06.29.11:023][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012274s)
+[2023.05.31-06.29.11:059][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.05.31-06.29.11:061][413]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2023.05.31-06.29.11:061][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.29.11:061][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.29.11:061][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.29.11:061][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.29.11:061][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.29.11:061][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.29.11:061][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.29.11:061][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.29.11:062][413]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.29.11:062][413]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.29.11:062][413]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.29.11:062][413]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.29.11:066][413]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.29.11:066][413]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.29.11:085][413]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.29.11:085][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.29.11:085][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.29.11:085][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.29.11:085][413]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.29.11:085][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.29.11:085][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.29.11:087][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.29.11:087][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.29.11:087][413]LogInit: FAudioDevice initialized.
+[2023.05.31-06.29.11:087][413]LogAudio: Display: Audio Device (ID: 57) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.29.11:100][413]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.29.11:102][413]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.29.11
+[2023.05.31-06.29.11:103][413]LogWorld: Bringing up level for play took: 0.001051
+[2023.05.31-06.29.11:103][413]LogOnline: OSS: Creating online subsystem instance for: :Context_143
+[2023.05.31-06.29.11:105][413]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.29.11:106][413]PIE: サーバーにログインしました
+[2023.05.31-06.29.11:107][413]PIE: PIE合計開始時間 0.137 秒。
+[2023.05.31-06.29.21:282][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.29.21:282][521]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.29.21:282][521]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.29.21:283][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.29.21:290][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.29.21:308][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.29.21:336][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-06.29.21:336][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.29.21:337][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.29.21:341][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.29.21:345][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.05.31-06.29.21:385][522]LogPlayLevel: Display: Destroying online subsystem :Context_143
+[2023.05.31-06.29.29:214][175]BlueprintLog: New page: ABP_Neec23 をコンパイル
+[2023.05.31-06.29.29:278][175]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.05.31-06.29.29:623][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Wong/BP/ABP_Neec23" FILE="../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset" SILENT=true
+[2023.05.31-06.29.29:663][193]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ABP_Neec237E0A26AD4042AF40134097A896ACBDAE.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/Wong/BP/ABP_Neec23.uasset'
+[2023.05.31-06.29.29:682][193]AssetCheck: New page: アセット保存：ABP_Neec23
+[2023.05.31-06.29.29:682][193]LogContentValidation: Display: AnimBlueprint /Game/Wong/BP/ABP_Neec23.ABP_Neec23 を検証しています
+[2023.05.31-06.29.31:359][296]LogTemp: Repeating last play command: 選択ビューポート
+[2023.05.31-06.29.31:367][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.31-06.29.31:367][296]PIE: New page: PIEセッション: ThirdPersonExampleMap (2023/06/01 0:29:31)
+[2023.05.31-06.29.31:391][296]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.29.31:400][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009050s)
+[2023.05.31-06.29.31:402][296]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2023.05.31-06.29.31:402][296]LogPlayLevel: PIE: World Init took: (0.001783s)
+[2023.05.31-06.29.31:402][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011092s)
+[2023.05.31-06.29.31:440][296]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.05.31-06.29.31:442][296]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2023.05.31-06.29.31:442][296]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.31-06.29.31:442][296]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.31-06.29.31:442][296]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.31-06.29.31:442][296]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.31-06.29.31:442][296]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.31-06.29.31:442][296]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.31-06.29.31:442][296]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.31-06.29.31:442][296]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.31-06.29.31:443][296]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.31-06.29.31:443][296]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.31-06.29.31:443][296]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.31-06.29.31:443][296]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.31-06.29.31:447][296]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.31-06.29.31:447][296]LogAudioMixer: Display: 1: FrontRight
+[2023.05.31-06.29.31:467][296]LogAudioMixer: Display: Using Audio Device スピーカー / ヘッドホン (Realtek Audio)
+[2023.05.31-06.29.31:467][296]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.31-06.29.31:467][296]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.31-06.29.31:467][296]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.31-06.29.31:468][296]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.31-06.29.31:468][296]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.31-06.29.31:468][296]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.31-06.29.31:469][296]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.31-06.29.31:469][296]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.31-06.29.31:469][296]LogInit: FAudioDevice initialized.
+[2023.05.31-06.29.31:469][296]LogAudio: Display: Audio Device (ID: 58) registered with world 'ThirdPersonExampleMap'.
+[2023.05.31-06.29.31:479][296]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.31-06.29.31:481][296]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2023.05.31-15.29.31
+[2023.05.31-06.29.31:481][296]LogWorld: Bringing up level for play took: 0.000775
+[2023.05.31-06.29.31:481][296]LogOnline: OSS: Creating online subsystem instance for: :Context_144
+[2023.05.31-06.29.31:484][296]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Neec23_C_0.CharacterMesh0'
+[2023.05.31-06.29.31:485][296]PIE: サーバーにログインしました
+[2023.05.31-06.29.31:486][296]PIE: PIE合計開始時間 0.12 秒。
+[2023.05.31-06.30.23:991][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.30.23:992][114]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2023.05.31-06.30.23:992][114]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.31-06.30.23:992][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.30.24:007][114]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.31-06.30.24:028][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.31-06.30.24:056][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.31-06.30.24:056][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.30.24:057][114]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.31-06.30.24:068][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.31-06.30.24:071][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.05.31-06.30.24:114][115]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2023.05.31-06.30.25:193][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.05.31-06.30.25:211][178]LogSavePackage: Moving '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Saved/ThirdPersonExampleMap5A5204E34045279E61D45486DA811A59.tmp' to '../../../../../../Users/CGuser/Documents/GitHub/NeecSandBox/Neec_GameCG/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2023.05.31-06.30.25:245][178]AssetCheck: New page: アセット保存：ThirdPersonExampleMap
+[2023.05.31-06.30.25:245][178]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
