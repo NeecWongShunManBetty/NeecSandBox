@@ -1,0 +1,1 @@
+rv -nomb -fullscreen -noBorders -fps 30.000000 shot0010_01.mp4 shot0020_01.mp4 shot0030_01.mp4 shot0040_01.mp4
