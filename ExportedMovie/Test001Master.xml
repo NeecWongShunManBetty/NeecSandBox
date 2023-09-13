@@ -252,13 +252,13 @@
 			<clip id="masterclip-4">
 				<masterclipid>masterclip-4</masterclipid>
 				<ismasterclip>TRUE</ismasterclip>
-				<duration>137</duration>
+				<duration>102</duration>
 				<rate>
 					<timebase>30</timebase>
 					<ntsc>FALSE</ntsc>
 				</rate>
 				<in>0</in>
-				<out>137</out>
+				<out>102</out>
 				<name>shot0040_01</name>
 				<media>
 					<video>
@@ -268,13 +268,13 @@
 								<ismasterclip>TRUE</ismasterclip>
 								<name>shot0040_01</name>
 								<enabled>TRUE</enabled>
-								<duration>137</duration>
+								<duration>102</duration>
 								<rate>
 									<timebase>30</timebase>
 									<ntsc>FALSE</ntsc>
 								</rate>
 								<in>0</in>
-								<out>137</out>
+								<out>102</out>
 								<anamorphic>FALSE</anamorphic>
 								<pixelaspectratio>square</pixelaspectratio>
 								<fielddominance>lower</fielddominance>
@@ -285,7 +285,7 @@
 										<timebase>30</timebase>
 										<ntsc>FALSE</ntsc>
 									</rate>
-									<duration>137</duration>
+									<duration>102</duration>
 									<timecode>
 										<rate>
 											<timebase>30</timebase>
@@ -331,8 +331,90 @@
 					<lut2 />
 				</colorinfo>
 			</clip>
+			<clip id="masterclip-5">
+				<masterclipid>masterclip-5</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>300</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>300</out>
+				<name>shot0050_01</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-5">
+								<masterclipid>masterclip-5</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>shot0050_01</name>
+								<enabled>TRUE</enabled>
+								<duration>300</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>300</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-5">
+									<name>shot0050_01.mp4</name>
+									<pathurl>file://localhost/C%3a/Users/CGuser/Documents/GitHub/NeecSandBox/ExportedMovie/shot0050_01.mp4</pathurl>
+									<rate>
+										<timebase>30</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>300</duration>
+									<timecode>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>30</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UE4ShotSection=/Game/Wong/Test_Sequence/Test001/Test001Master.Test001Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_4][UE4ShotStartOffset=0][UE4ShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
 			<sequence id="sequence-1">
-				<duration>636</duration>
+				<duration>793</duration>
 				<rate>
 					<timebase>30</timebase>
 					<ntsc>FALSE</ntsc>
@@ -354,7 +436,7 @@
 							</samplecharacteristics>
 						</format>
 						<track>
-							<clipitem id="clipitem-5">
+							<clipitem id="clipitem-6">
 								<masterclipid>masterclip-1</masterclipid>
 								<ismasterclip>FALSE</ismasterclip>
 								<name>shot0010_01</name>
@@ -370,7 +452,7 @@
 								<out>124</out>
 								<file id="file-1" />
 							</clipitem>
-							<clipitem id="clipitem-6">
+							<clipitem id="clipitem-7">
 								<masterclipid>masterclip-2</masterclipid>
 								<ismasterclip>FALSE</ismasterclip>
 								<name>shot0020_01</name>
@@ -386,7 +468,7 @@
 								<out>265</out>
 								<file id="file-2" />
 							</clipitem>
-							<clipitem id="clipitem-7">
+							<clipitem id="clipitem-8">
 								<masterclipid>masterclip-3</masterclipid>
 								<ismasterclip>FALSE</ismasterclip>
 								<name>shot0030_01</name>
@@ -402,21 +484,37 @@
 								<out>109</out>
 								<file id="file-3" />
 							</clipitem>
-							<clipitem id="clipitem-8">
+							<clipitem id="clipitem-9">
 								<masterclipid>masterclip-4</masterclipid>
 								<ismasterclip>FALSE</ismasterclip>
 								<name>shot0040_01</name>
 								<enabled>TRUE</enabled>
-								<duration>137</duration>
+								<duration>102</duration>
 								<rate>
 									<timebase>30</timebase>
 									<ntsc>FALSE</ntsc>
 								</rate>
 								<start>498</start>
-								<end>635</end>
+								<end>600</end>
 								<in>0</in>
-								<out>137</out>
+								<out>102</out>
 								<file id="file-4" />
+							</clipitem>
+							<clipitem id="clipitem-10">
+								<masterclipid>masterclip-5</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>shot0050_01</name>
+								<enabled>TRUE</enabled>
+								<duration>300</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>600</start>
+								<end>900</end>
+								<in>0</in>
+								<out>300</out>
+								<file id="file-5" />
 							</clipitem>
 							<enabled>TRUE</enabled>
 							<locked>FALSE</locked>

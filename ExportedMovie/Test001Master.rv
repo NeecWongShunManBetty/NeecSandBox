@@ -112,7 +112,7 @@ sourceGroup000003_source : RVFileSource (1)
 	cut
 	{
 		int in = 0
-		int out = 137
+		int out = 102
 	}
 
 	group
@@ -123,6 +123,34 @@ sourceGroup000003_source : RVFileSource (1)
 	media
 	{
 		string movie = "shot0040_01.mp4"
+		string shot = ""
+	}
+}
+
+sourceGroup000004 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "shot0050_01.mp4"
+	}
+}
+
+sourceGroup000004_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 300
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "shot0050_01.mp4"
 		string shot = ""
 	}
 }
